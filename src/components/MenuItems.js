@@ -6,17 +6,17 @@ export const MenuItems = [
     },
 
     {
-        title: 'Services',
+        title: 'Trainers',
         url:'#',
         cName: 'nav-links'
     },
     {
-        title: 'Products',
+        title: 'Bodybuilding Events',
         url:'#',
         cName: 'nav-links'
     },
     {
-        title: 'Contact Us',
+        title: 'About Us',
         url:'#',
         cName: 'nav-links'
     },

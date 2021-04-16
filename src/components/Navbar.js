@@ -2,6 +2,7 @@
 import React, { Component } from 'react';
 import { MenuItems} from './MenuItems';
 import './Navbar.css';
+import { Button} from './Button';
 
 class Navbar extends Component {
     state ={ clicked: false }
@@ -29,6 +30,7 @@ class Navbar extends Component {
                        )
                    })}                  
                </ul>
+               <Button>Show Your Pride Here</Button>
             </nav>
         )
     }
