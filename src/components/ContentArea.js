@@ -5,7 +5,7 @@ function ContentArea() {
         <div className='content-container'>
             <video src='/public/posing-video.mp4'
                 autoPlay loop muted />
-                <h1>BE STRONG! BE BOLD! SHOW PRIDE!</h1>
+                <h1>BE STRONG! BE BRAVE! BE U!</h1>
             <p>Lorem Ipsum is simply dummy
                  text of the printing and 
                  typesetting industry. 
