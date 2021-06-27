@@ -30,7 +30,7 @@ class Navbar extends Component {
                        )
                    })}                  
                </ul>
-               <Button>Show Your Pride Here</Button>
+               <Button className='text'>Show Your Pride Here</Button>
             </nav>
         )
     }
