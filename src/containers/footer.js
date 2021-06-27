@@ -39,8 +39,16 @@ export function FooterContainer() {
                     <Footer.Link href='#'>Events</Footer.Link>
                     <Footer.Link href='#'>Fitness Coaches</Footer.Link>
                     <Footer.Link href='#'>Get Fit</Footer.Link>
-                </Footer.Column>
-                </Footer.Row>
+                </Footer.Column>                 
+                <Footer.Column>
+                    <Footer.Title>Our Inclusiveness</Footer.Title>
+                    <Footer.Link href='#'>Gay Pride</Footer.Link>
+                    <Footer.Link href='#'>Recipes</Footer.Link>
+                    <Footer.Link href='#'>Events</Footer.Link>
+                    <Footer.Link href='#'>Fitness Coaches</Footer.Link>
+                    <Footer.Link href='#'>Get Fit</Footer.Link>
+                </Footer.Column>                 
+              </Footer.Row>
             </Footer.Wrapper>
         </Footer>
     );
