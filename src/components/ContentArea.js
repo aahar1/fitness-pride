@@ -1,12 +1,14 @@
 import React from 'react'
 import './ContentArea.css';
+//import  img from './public/filler-pic.png';
 
 function ContentArea() {
     return (
         <div className='content-container'>
             {/* <video src='/public/posing-video.mp4'
                 autoPlay loop muted /> */}
-                <h1>BE STRONG! BE BRAVE! BE U!</h1>
+                <h1 className='heading'>BE STRONG! BE BRAVE! BE U!</h1>
+                
             <p>Lorem Ipsum is simply dummy
                  text of the printing and 
                  typesetting industry. 
