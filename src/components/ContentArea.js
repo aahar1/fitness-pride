@@ -10,7 +10,7 @@ function ContentArea() {
                 <h1 className='heading'>BE STRONG! BE BRAVE! BE U!</h1>
                 
             <p>Lorem Ipsum is simply dummy
-                 text of the printing and 
+                 text of the printing affnd 
                  typesetting industry. 
                      essentially unchanged.</p>
             <p>Lorem Ipsum is simply dummy
