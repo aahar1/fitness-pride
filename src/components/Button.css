@@ -8,6 +8,8 @@
   outline: none;
   border: none;
   cursor: pointer;
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+
 }
 
 .btn:hover {
@@ -40,5 +42,7 @@
     padding: 12px 20px;
     border-radius: 4px;
     font-size: 18px;
-    color: #fff;
+    color: 
+    #fff;
 }
+

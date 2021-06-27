@@ -10,12 +10,14 @@ function ContentArea() {
                  text of the printing and 
                  typesetting industry. 
                      essentially unchanged.</p>
-                     <button className='btns' 
-                            buttonStyle='btn--outline'
-                            buttonSize='btn--large'
-                            >
-                                Fitness junkies enter Here
-                            </button>
+          <div className='content-btns'>
+            <button className='btns' 
+                    buttonStyle='btn--outline'
+                    buttonSize='btn--large'
+            >
+                Fitness junkies enter Here
+             </button>
+          </div>
 
         </div>
     )
