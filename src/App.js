@@ -1,12 +1,11 @@
-import React from 'react';
-import { FooterContainer } from './containers/footer';
-import './App.css';
-import Navbar from './components/Navbar';
-import ContentArea from './components/ContentArea'
-;
+import React from "react";
+import { FooterContainer } from "./containers/footer";
+import "./App.css";
+import Navbar from "./components/navbar/Navbar";
+import ContentArea from "./components/ContentArea";
 function App() {
   return (
-    <div className="App">
+    <div className='App'>
       <Navbar />
       <ContentArea />
       <FooterContainer />
